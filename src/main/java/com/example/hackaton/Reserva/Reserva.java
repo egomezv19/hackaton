@@ -1,4 +1,4 @@
-package com.example.hackaton;
+package com.example.hackaton.Reserva;
 
 import com.example.hackaton.Salon.Salon;
 import com.example.hackaton.Usuario.Usuario;
@@ -6,7 +6,6 @@ import jakarta.persistence.*;
 
 
 import java.util.Date;
-import java.util.List;
 
 @Entity
 public class Reserva {

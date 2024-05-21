@@ -1,5 +1,8 @@
 package com.example.hackaton.Usuario;
-import javax.persistence.*;
+
+import com.example.hackaton.Reserva.Reserva;
+import jakarta.persistence.*;
+
 import java.util.List;
 
 @Entity

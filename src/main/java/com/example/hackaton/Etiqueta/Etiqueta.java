@@ -1,6 +1,8 @@
-package com.example.hackaton;
+package com.example.hackaton.Etiqueta;
 
-import javax.persistence.*;
+import com.example.hackaton.Salon.Salon;
+import jakarta.persistence.*;
+
 import java.util.List;
 
 @Entity

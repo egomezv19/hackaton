@@ -1,8 +1,8 @@
 package com.example.hackaton.Salon;
 
 
-import com.example.hackaton.Etiqueta;
-import com.example.hackaton.Reserva;
+import com.example.hackaton.Etiqueta.Etiqueta;
+import com.example.hackaton.Reserva.Reserva;
 import jakarta.persistence.*;
 
 import java.util.List;
